@@ -1,8 +1,9 @@
 <!doctype html>
+
 <head>
     <meta charset="utf-8">
 
-    <title>MVC Todo</title>
+    <title>MVC Todo </title>
 
     <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css" rel="stylesheet">
 
@@ -21,7 +22,7 @@
 
 <body>
 <nav class="navbar navbar-expand-md navbar-dark bg-dark fixed-top">
-    <a class="navbar-brand" href="#">MVC Todo</a>
+    <a class="navbar-brand" href="#">MVC Todo 1223</a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault" aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
     </button>
